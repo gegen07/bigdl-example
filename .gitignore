@@ -1,0 +1,11 @@
+.bloop/*
+.bsp/*
+.metals/*
+.vscode/*
+.idea/*
+project/*
+!project/build.properties
+!project/assembly.sbt
+**/target/*
+*.class
+*.log
